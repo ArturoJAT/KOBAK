@@ -189,7 +189,7 @@ section {
 }
 
 #section3{
-    background-color: rgb(241, 165, 0);
+    background-color: #444;
 	color:#fff;
 }
 
@@ -348,3 +348,7 @@ hr{
     color: rgb(241, 165, 0);
 }
 
+div{
+    font-family: Helvetica,sans-serif;
+
+}

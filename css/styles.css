@@ -216,10 +216,10 @@ section {
 }
 .carouselDiv{
     background-color: #eee;
-    margin-top:-50px;
+    margin-top:0;
     padding-top: 50px;
     padding-bottom: 50px;
-   
+
 }
 footer {
 	background-color:#2b2b2b;
@@ -351,4 +351,9 @@ hr{
 div{
     font-family: Helvetica,sans-serif;
 
+}
+
+.carrousel{
+    width: 100%;
+    height: auto;
 }
